@@ -1,0 +1,68 @@
+Files already downloaded and verified
+Accuracy: 84.60%, eps: 0.01, PGD Accuracy: 50.30%
+Accuracy: 84.60%, eps: 0.02, PGD Accuracy: 21.60%
+Accuracy: 84.60%, eps: 0.03, PGD Accuracy: 6.20%
+Accuracy: 84.60%, eps: 0.04, PGD Accuracy: 2.30%
+Accuracy: 84.60%, eps: 0.05, PGD Accuracy: 0.30%
+Accuracy: 84.60%, eps: 0.06, PGD Accuracy: 0.10%
+Accuracy: 84.60%, eps: 0.07, PGD Accuracy: 0.00%
+Files already downloaded and verified
+Accuracy: 88.60%, eps: 0.01, PGD Accuracy: 50.00%
+Accuracy: 88.60%, eps: 0.02, PGD Accuracy: 18.30%
+Files already downloaded and verified
+Accuracy: 89.10%, eps: 0.01, PGD Accuracy: 51.50%
+Files already downloaded and verified
+Accuracy: 89.10%, eps: 0.01, PGD Accuracy: 51.50%
+Accuracy: 89.10%, eps: 0.02, PGD Accuracy: 19.40%
+Accuracy: 89.10%, eps: 0.03, PGD Accuracy: 6.60%
+Files already downloaded and verified (ci100 ,combine 0.4)
+Accuracy: 66.70%, eps: 0.01, PGD Accuracy: 24.20%
+Accuracy: 66.70%, eps: 0.02, PGD Accuracy: 7.30%
+/data/zwl/zwl/DVERGE_code/checkpoint_icml/fdt/seed_0/3_ResNet20_eps_0.05/step_5_alpha0.005_fixed_layer_20/res20_cifar100_eps0.05fb0.6_epoch200.pth
+Files already downloaded and verified
+Accuracy: 64.70%, eps: 0.01, PGD Accuracy: 24.20%
+Accuracy: 64.70%, eps: 0.02, PGD Accuracy: 7.20%
+/data/zwl/zwl/DVERGE_code/checkpoint_icml/fdt/seed_0/3_ResNet20_eps_0.05/step_5_alpha0.005_fixed_layer_20/res20_cifar100_eps0.05fb0.8_epoch200.pth
+Files already downloaded and verified
+Accuracy: 64.70%, eps: 0.01, PGD Accuracy: 24.70%
+Accuracy: 64.70%, eps: 0.02, PGD Accuracy: 7.50%
+Accuracy: 64.70%, eps: 0.03, PGD Accuracy: 1.80%
+/data/zwl/zwl/DVERGE_code/checkpoints/baseline/seed_0/3_ResNet20/wrn_vanilla_cifa10_epoch_200.pth
+Files already downloaded and verified
+Accuracy: 95.20%, eps: 0.01, PGD Accuracy: 1.00%
+/home/ustc/zwl/zwl/DVERGE_code/checkpoints_naive_advtrain/baseline_c10/seed_0/1_ResNet20/res_vanilla_cifa10_epoch_200.pth
+Files already downloaded and verified
+Accuracy: 78.90%, eps: 0.01, PGD Accuracy: 68.10%
+Accuracy: 78.90%, eps: 0.02, PGD Accuracy: 53.60%
+Accuracy: 78.90%, eps: 0.03, PGD Accuracy: 39.80%
+Accuracy: 78.90%, eps: 0.04, PGD Accuracy: 24.80%
+Accuracy: 78.90%, eps: 0.05, PGD Accuracy: 14.70%
+Accuracy: 78.90%, eps: 0.06, PGD Accuracy: 7.00%
+Accuracy: 78.90%, eps: 0.07, PGD Accuracy: 3.40%
+/home/ustc/zwl/zwl/DVERGE_code/checkpoints_naive_advtrain/baseline_c10/seed_0/1_ResNet20/res_vanilla_cifa10_epoch_200.pth
+Files already downloaded and verified
+Accuracy: 78.90%, eps: 0.01, PGD Accuracy: 68.10%
+Accuracy: 78.90%, eps: 0.01, PGD Accuracy: 68.10%
+Accuracy: 78.90%, eps: 0.02, PGD Accuracy: 53.60%
+Accuracy: 78.90%, eps: 0.02, PGD Accuracy: 53.60%
+Accuracy: 78.90%, eps: 0.03, PGD Accuracy: 39.80%
+Accuracy: 78.90%, eps: 0.03, PGD Accuracy: 39.80%
+Accuracy: 78.90%, eps: 0.04, PGD Accuracy: 24.80%
+Accuracy: 78.90%, eps: 0.04, PGD Accuracy: 24.80%
+/home/ustc/zwl/zwl/DVERGE_code/checkpoints_naive_advtrain/baseline_c10/seed_0/1_ResNet20/res_vanilla_cifa10_epoch_200.pth
+Files already downloaded and verified
+aaaaaaaaa
+/home/ustc/zwl/zwl/DVERGE_code/checkpoints_naive_advtrain/baseline_c10/seed_0/1_ResNet20/res_vanilla_cifa10_epoch_200.pth
+Files already downloaded and verified
+False
+aaaaaaaaa
+Accuracy: 78.90%, eps: 0.01, PGD Accuracy: 68.10%
+Accuracy: 78.90%, eps: 0.01, PGD Accuracy: 68.10%
+/home/ustc/zwl/zwl/DVERGE_code/checkpoints_naive_advtrain/baseline_c10/seed_0/1_ResNet20/res_vanilla_cifa10_epoch_200.pth
+Files already downloaded and verified
+False
+aaaaaaaaa
+Accuracy: 78.90%, eps: 0.01, PGD Accuracy: 68.10%
+Accuracy: 78.90%, eps: 0.01, PGD Accuracy: 68.10%
+Accuracy: 78.90%, eps: 0.02, PGD Accuracy: 53.60%
+Accuracy: 78.90%, eps: 0.02, PGD Accuracy: 53.60%
